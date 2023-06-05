@@ -20,7 +20,7 @@
     "cytoscape-grid-guide": "2.2.1",
     "jquery": "^3.3.1",
     "rxjs": "6.4.0",
-    "zone.js": "0.8.29"
+    "zone.js": "0.13.0"
   },
   "scripts": {
     "ng": "ng",
